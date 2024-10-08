@@ -1,4 +1,4 @@
-# STAT-201-Project
+# STAT-301-Project
 # Project Goals
 - Develop fluency in R.
 - Uncover creative insights from data.
