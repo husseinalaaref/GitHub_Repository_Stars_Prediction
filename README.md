@@ -1,4 +1,4 @@
-# STAT-301-Project
+# GitHub_Repository_Stars_Prediction
 # Project Goals
 - Develop fluency in R.
 - Uncover creative insights from data.
